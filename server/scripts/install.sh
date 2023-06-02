@@ -5,7 +5,7 @@ if command -v pacman &>/dev/null; then
     pacman -S docker docker-compose python3 git curl
 
 # Debian.
-if command -v apt &>/dev/null; then
+elif command -v apt &>/dev/null; then
     # Setup repository
     sudo apt update && sudo apt upgrade
     sudo apt-get install ca-certificates curl gnupg
