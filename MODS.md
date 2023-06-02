@@ -26,7 +26,6 @@
 
 ## World Generation
 - https://www.curseforge.com/minecraft/mc-mods/terrestria (1.20)
-- https://www.curseforge.com/minecraft/mc-mods/regions-unexplored (1.19.4)
 - https://www.curseforge.com/minecraft/mc-mods/ecotones (1.19.2)
 - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric (1.19.2)
 - https://www.curseforge.com/minecraft/mc-mods/tectonic (1.19.4)
