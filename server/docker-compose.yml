@@ -11,7 +11,7 @@ services:
       # VERSION: 1.19.4
       VERSION: 1.18.2
       REMOVE_OLD_MODS: "true"
-      MODRINTH_PROJECTS: fabric-api,iris,sodium,sodium-extra,phosphor,lithium,botania
+      MODRINTH_PROJECTS: fabric-api,iris,sodium,sodium-extra,phosphor,lithium,botania,hephaestus
     tty: true
     stdin_open: true
     restart: unless-stopped
