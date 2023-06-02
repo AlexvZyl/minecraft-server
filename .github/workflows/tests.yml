@@ -20,7 +20,7 @@ jobs:
       run: |
         pwd 
         ls -a
-        $HOME/server/install.sh
+        server/install.sh
     - name: Test client
       shell: bash
-      run: $HOME/client/install.sh
+      run: client/install.sh
