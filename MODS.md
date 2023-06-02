@@ -1,3 +1,7 @@
+## Metadata
+- Version: 1.18.2
+- API: Fabric
+
 ## Compatibility
 
 - https://modrinth.com/mod/fabric-api

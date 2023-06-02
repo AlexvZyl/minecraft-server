@@ -13,7 +13,3 @@ I need a break after 175 pages of thesis.  This server does not contain any rada
 
 - [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md)
 - [Server](https://github.com/AlexvZyl/minecraft-server/blob/main/server/README.md)
-
-## Metadata
-- Version:
-- API:
