@@ -4,3 +4,7 @@ Modrinth and CurseForge mods are supported.  They can be installed like all of t
 
 - [Modrinth modpack](https://github.com/AlexvZyl/minecraft-modpack/blob/main/modpack/modrinth/No-Radars-Modrinth.mrpack)
 - [CurseForge modpack](https://github.com/AlexvZyl/minecraft-modpack/blob/main/modpack/curseforge/No-Radars-CurseForge.zip)
+
+## MultiMC
+
+You can download [MultiMC](https://multimc.org/#Download) and just drop the [CurseForge modpack](https://github.com/AlexvZyl/minecraft-modpack/blob/main/modpack/curseforge/No-Radars-CurseForge.zip) in the GUI.
