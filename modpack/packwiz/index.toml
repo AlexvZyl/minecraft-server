@@ -96,11 +96,6 @@ hash = "168d832a826225e12f84d31bc10ddf3f7f21c75c4c25bdc975a3381dcb17fd15"
 metafile = true
 
 [[files]]
-file = "mods/unfixed-seeds.pw.toml"
-hash = "c6c4844ed55ff5f542625b587dd75cb7cf4df45c1b63d17b40db3051c3617ff1"
-metafile = true
-
-[[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "a9b8b47c54be3199be7bb2cd0b656afc2c5186a0f729a178f076ac308ab400eb"
 metafile = true
