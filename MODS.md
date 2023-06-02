@@ -11,6 +11,8 @@
 
 - https://modrinth.com/mod/sodium
 - https://modrinth.com/mod/sodium-extra
+- https://modrinth.com/mod/reeses-sodium-options
+- https://modrinth.com/mod/indium
 - https://modrinth.com/mod/phosphor
 - https://modrinth.com/mod/lithium
 
