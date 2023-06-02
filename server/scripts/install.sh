@@ -7,7 +7,7 @@ if command -v pacman &>/dev/null; then
 # Debian.
 if command -v apt &>/dev/null; then
     # Setup repository
-    sudo apt-get update
+    sudo apt update && sudo apt upgrade
     sudo apt-get install ca-certificates curl gnupg
 
     sudo install -m 0755 -d /etc/apt/keyrings
@@ -20,8 +20,9 @@ if command -v apt &>/dev/null; then
         sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
     # Install Docker Engine
-    sudo apt-get update
-    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+    sudo apt update && sudo apt upgrade
+    sudo apt install docker docker-compose
+    sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
 else
     exit
