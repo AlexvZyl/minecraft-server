@@ -11,16 +11,6 @@ hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "f9daa7f4a22030249d4ba643df59c7fc4e49b2cdaf6fc4adb9df70a8827d3f6e"
-metafile = true
-
-[[files]]
-file = "mods/corgilib.pw.toml"
-hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd043fda6517f044b0ddb6608f1a472f60d8c1d14f2a47d65dbdcf154f1af1d3"
 metafile = true
@@ -38,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "82486f0bd71fe97b85177f7a6374995e558c3cfa3ef0d14712c195ff01eb5a38"
 metafile = true
 
 [[files]]
@@ -93,11 +78,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
-metafile = true
-
-[[files]]
-file = "mods/terrablender.pw.toml"
-hash = "7adadb000708eef2854ca2133d4d392f2398e7f1dc0ea8ccb00c57f6215fc061"
 metafile = true
 
 [[files]]
