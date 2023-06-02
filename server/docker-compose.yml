@@ -1,16 +1,19 @@
-version: "3"
+version: '3.8'
 
 services:
   minecraft-server:
     image: itzg/minecraft-server
-    ports:
-      - 25565:25565
     environment:
+      VERSION: 1.18.2
       EULA: "true"
       TYPE: FABRIC 
-      VERSION: 1.18.2
-      REMOVE_OLD_MODS: "true"
-      MODRINTH_PROJECTS: fabric-api,iris,sodium,sodium-extra,phosphor,lithium,botania,hephaestus
+      PACKWIZ_URL: https://raw.githubusercontent.com/AlexvZyl/minecraft-modpack/main/modpack/packwiz/pack.toml
+    ports:
+      - "25565:25565"
     tty: true
-    stdin_open: true
     restart: unless-stopped
+    volumes:
+    - data:/data
+
+volumes:
+  data: {}
