@@ -12,5 +12,5 @@ I need a break after 175 pages of thesis.  This server does not contain any rada
 
 ## Installation
 
-- [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md)
+- [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md) (You probably want this one)
 - [Server](https://github.com/AlexvZyl/minecraft-server/blob/main/server/README.md)
