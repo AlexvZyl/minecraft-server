@@ -1,3 +1,3 @@
 # Client
 
-Supported on Windows, Debian and Arch machines.
+Modrinth and CurseForge mods are supported.
