@@ -35,7 +35,7 @@
 - https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
 - https://www.curseforge.com/minecraft/mc-mods/terralith
 
-## UI
+## Quality of Life
+
 - https://modrinth.com/mod/mob-plaques
-
-
+- https://modrinth.com/mod/ruined-equipment
