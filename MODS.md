@@ -4,13 +4,13 @@ https://modrinth.com/mod/fabric-api
 
 # Optimisation
 
-https://modrinth.com/mod/sodium (rendering)
+https://modrinth.com/mod/sodium
 
-https://modrinth.com/mod/sodium-extra (nice things)
+https://modrinth.com/mod/sodium-extra
 
-https://modrinth.com/mod/phosphor (lighting engine)
+https://modrinth.com/mod/phosphor
 
-https://modrinth.com/mod/lithium (server)
+https://modrinth.com/mod/lithium
 
 # Engineering
 
