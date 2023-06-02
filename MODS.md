@@ -3,10 +3,10 @@
 List of mods used on this server.
 
 ## Optimisation
-- Sodium (rendering)
-- Sodium Extra (nice things)
-- Phosphor (lighting engine)
-- Lithium (server)
+- sodium (rendering)
+- sodium-extra (nice things)
+- phosphor (lighting engine)
+- lithium (server)
 
 ## World Generation
 -
