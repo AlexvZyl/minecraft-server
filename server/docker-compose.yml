@@ -7,13 +7,10 @@ services:
       - 25565:25565
     environment:
       EULA: "true"
-      TYPE: FORGE
-      VERSION: 1.15.2
-      MODS_FILE: /extras/MODS.md
+      TYPE: FABRIC 
+      VERSION: 1.19.4
       REMOVE_OLD_MODS: "true"
+      MODRINTH_PROJECTS: fabric-api
     tty: true
     stdin_open: true
     restart: unless-stopped
-    volumes:
-      # - data:/data
-      - ./MODS.md:/extras/MODS.md:ro
