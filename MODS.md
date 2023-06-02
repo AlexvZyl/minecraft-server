@@ -24,9 +24,10 @@
 - https://modrinth.com/mod/entity-model-features
 - https://modrinth.com/mod/better-clouds
 
-## Engineering
+## Quality of Life
 
-- https://modrinth.com/mod/botania
+- https://modrinth.com/mod/mob-plaques
+- https://modrinth.com/mod/ruined-equipment
 
 ## World Generation
 
@@ -35,8 +36,3 @@
 - https://www.curseforge.com/minecraft/mc-mods/tectonic
 - https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
 - https://www.curseforge.com/minecraft/mc-mods/terralith
-
-## Quality of Life
-
-- https://modrinth.com/mod/mob-plaques
-- https://modrinth.com/mod/ruined-equipment
