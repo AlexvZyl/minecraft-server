@@ -87,5 +87,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "9ab6f2e1d12d17bc50501269efe65a415b115d56b6096b6c9eb136f8de6fb885"
+hash = "4e570de9e59980eb8452c9e837c74027ec727c45dff4dc3141bf7427cf35b385"
 metafile = true
