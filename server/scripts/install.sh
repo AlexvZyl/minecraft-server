@@ -1,4 +1,2 @@
 #!/bin/bash
-sudo apt install docker docker-compose
-sudo systemctl enable docker && sudo systemctl start docker
-
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
