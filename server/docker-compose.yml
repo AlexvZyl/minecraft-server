@@ -6,7 +6,7 @@ services:
     ports:
       - 25565:25565
     environment:
-      MODRINTH_PROJECTS: "sodium,sodium-extra,phosphor,lithium"
+      MODS_FILE: "MODS.md"
       MODRINTH_DOWNLOAD_OPTIONAL_DEPENDENCIES: "TRUE"
       MODRINTH_ALLOWED_VERSION_TYPE: "release"
       EULA: "TRUE"
