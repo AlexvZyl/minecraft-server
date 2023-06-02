@@ -1,25 +1,22 @@
-# Mods
+# Compatibility
 
-## Compatibility
-- https://modrinth.com/mod/fabric-api
+https://modrinth.com/mod/fabric-api
 
-## Optimisation
-- https://modrinth.com/mod/sodium (rendering)
-- https://modrinth.com/mod/sodium-extra (nice things)
-- https://modrinth.com/mod/phosphor (lighting engine)
-- https://modrinth.com/mod/lithium (server)
+# Optimisation
 
-## Engineering
-- https://modrinth.com/mod/botania
-- https://modrinth.com/mod/ae2
-- https://modrinth.com/mod/tinkers-construct
-- https://modrinth.com/mod/thermal-expansion
+https://modrinth.com/mod/sodium (rendering)
+https://modrinth.com/mod/sodium-extra (nice things)
+https://modrinth.com/mod/phosphor (lighting engine)
+https://modrinth.com/mod/lithium (server)
 
-## World Generation
--
+# Engineering
+https://modrinth.com/mod/botania
+https://modrinth.com/mod/ae2
+https://modrinth.com/mod/tinkers-construct
+https://modrinth.com/mod/thermal-expansion
 
-## Combat
--
+# World Generation
 
-## Known Issues
--
+# Combat
+
+# Known Issues
