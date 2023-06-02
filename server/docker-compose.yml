@@ -6,6 +6,9 @@ services:
     ports:
       - 25565:25565
     environment:
+      MODRINTH_PROJECTS: "sodium,sodium-extra,phosphor,lithium"
+      MODRINTH_DOWNLOAD_OPTIONAL_DEPENDENCIES: true
+      MODRINTH_ALLOWED_VERSION_TYPE: release
       EULA: "TRUE"
     tty: true
     stdin_open: true
