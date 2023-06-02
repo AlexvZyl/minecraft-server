@@ -9,8 +9,11 @@ services:
       EULA: "true"
       TYPE: FORGE
       VERSION: 1.15.2
-      MODS_FILE: MODS.md
+      MODS_FILE: /extras/MODS.md
       REMOVE_OLD_MODS: "true"
     tty: true
     stdin_open: true
     restart: unless-stopped
+    volumes:
+      # - data:/data
+      - MODS.md:/extras/MODS.md:ro
