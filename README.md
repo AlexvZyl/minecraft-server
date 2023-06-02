@@ -4,6 +4,8 @@
 
 I need a break after 175 pages of thesis.  This server does not contain any radars.
 
+List of mods can be found [here](https://github.com/AlexvZyl/minecraft-modpack/blob/main/MODS.md).
+
 ## Banned words
 
 - Radar
