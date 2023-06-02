@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
 metafile = true
@@ -11,13 +16,28 @@ hash = "ef04850d07a0b6980b8518c1b9206d4c50c01cc39156b63e6e864cbbbf2aa5d3"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
+metafile = true
+
+[[files]]
 file = "mods/ecotones.pw.toml"
 hash = "1b63534ca6401f20530a960b005f1118efcc65c65f26a42e4d304e800395801f"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
@@ -41,6 +61,11 @@ hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "fca76e009b82f232db73db9bbe20d0524cf96a0441ee3ae9d33952e3a251bc15"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
 metafile = true
@@ -53,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
 metafile = true
 
 [[files]]
