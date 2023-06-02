@@ -8,9 +8,10 @@ services:
     environment:
       EULA: "true"
       TYPE: FABRIC 
-      VERSION: 1.19.4
+      # VERSION: 1.19.4
+      VERSION: 1.18.2
       REMOVE_OLD_MODS: "true"
-      MODRINTH_PROJECTS: fabric-api
+      MODRINTH_PROJECTS: fabric-api,iris,sodium,sodium-extra,phosphor,lithium,botania
     tty: true
     stdin_open: true
     restart: unless-stopped

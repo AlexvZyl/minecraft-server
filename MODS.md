@@ -1,6 +1,7 @@
 ## Compatibility
 
 - https://modrinth.com/mod/fabric-api
+- https://modrinth.com/mod/iris
 
 ## Optimisation
 
@@ -11,10 +12,11 @@
 
 ## Engineering
 
-- https://modrinth.com/mod/botania
-- https://modrinth.com/mod/ae2
-- https://modrinth.com/mod/tinkers-construct
-- https://modrinth.com/mod/thermal-expansion
+- https://modrinth.com/mod/botania (1.19.2)
+- https://modrinth.com/mod/ae2 (1.18.2)
+- https://modrinth.com/mod/hephaestus (1.18.2)
+- https://modrinth.com/mod/thermal-expansion (FORGE ONLY)
+- https://modrinth.com/mod/tinkers-construct (FORGE ONLY)
 
 ## World Generation
 
