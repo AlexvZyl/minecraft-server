@@ -24,10 +24,6 @@
 - https://modrinth.com/mod/entity-model-features
 - https://modrinth.com/mod/better-clouds
 
-## Engineering
-
-- https://modrinth.com/mod/botania
-
 ## World Generation
 
 - https://www.curseforge.com/minecraft/mc-mods/ecotones
