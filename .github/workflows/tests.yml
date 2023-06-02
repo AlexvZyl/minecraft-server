@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: Test server
       shell: bash
-      run: sudo "$HOME/server/install.sh"
+      run: "$HOME/server/install.sh"
     - name: Test client
       shell: bash
-      run: sudo "$HOME/client/install.sh"
+      run: "$HOME/client/install.sh"
