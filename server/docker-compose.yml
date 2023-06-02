@@ -16,4 +16,4 @@ services:
     restart: unless-stopped
     volumes:
       # - data:/data
-      - MODS.md:/extras/MODS.md:ro
+      - ./MODS.md:/extras/MODS.md:ro
