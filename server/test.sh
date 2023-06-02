@@ -1,3 +1,3 @@
 #!/bin/bash
 ./server/dependencies.sh
-sudo docker-compose -f server/docker-compose.yml build --dry-run
+sudo docker-compose -f server/docker-compose.yml --dry-run build
