@@ -1,4 +1,5 @@
 ## Metadata
+
 - Version: 1.19.2
 - API: Fabric
 
@@ -27,6 +28,11 @@
 - https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld (1.19.4)
 - https://www.curseforge.com/minecraft/mc-mods/terralith (1.19.4)
 
+## Mobs
+
+
+
 ## Combat
 
-## Known Issues
+
+
