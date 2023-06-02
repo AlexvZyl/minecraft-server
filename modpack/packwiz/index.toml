@@ -1,18 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "c3cc484f345ff3d0c11a18186dead561a26f57350eda1b175dda7e5a5d449a67"
-metafile = true
-
-[[files]]
 file = "mods/botania.pw.toml"
 hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
+hash = "88359fe4b1e60befe9cf046945c04979f48821ed7f98e0e054cf3b34f0dae5a5"
 metafile = true
 
 [[files]]
@@ -22,32 +17,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "10fbefa297383d7d768be6b113220b1d5f18bad29b5103641e9ffb0b3d37f3cb"
-metafile = true
-
-[[files]]
-file = "mods/hephaestus.pw.toml"
-hash = "6050b847bd07bbcd6ed9c5801149cde8a4f2393ba308fc7b86dc3c5ccabfa414"
+hash = "cfa2cbd200e091015bed6456362100e6ff40001e8be8ada86494434f3c215784"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "062b63f97387a4ec3db4586a5f29243d3ad59460456e4c8d9a914f1a35154f5e"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
@@ -62,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.pw.toml"
-hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "82bfc54f0259e74515d892ec18de6623a4460fdb6ddd43bc21c477a83b587fab"
+hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
@@ -77,37 +67,32 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "57a8156ca507aef595456aede3dc9f8ad5b9e9e835900c22f9817b79be1202e8"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
+hash = "eb51f36aa0920bd65c391ac3e5e5cab63d08d1d1859896173cc98f42d23ad8ce"
 metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+hash = "08766df93fba0337a0035ebdb2c217270cb26be7856f16489d97176224195904"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
-metafile = true
-
-[[files]]
-file = "mods/terrestria.pw.toml"
-hash = "185862ec9cfe495cc848f3acd34ff361b3cf6cc2759da87b2521c12a44b7aae6"
+hash = "9573b7c6c35cf0b8f76074c8625e3138c1654627a0149d7d2bd524d4752036ff"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+hash = "168d832a826225e12f84d31bc10ddf3f7f21c75c4c25bdc975a3381dcb17fd15"
 metafile = true
 
 [[files]]
@@ -117,5 +102,5 @@ metafile = true
 
 [[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
-hash = "8a8a0a8567a2680aa50dbb08d5208a00e41fc204be296f18735339a8c4fa26f8"
+hash = "a9b8b47c54be3199be7bb2cd0b656afc2c5186a0f729a178f076ac308ab400eb"
 metafile = true

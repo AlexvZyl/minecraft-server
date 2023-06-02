@@ -19,19 +19,13 @@
 ## Engineering
 
 - https://modrinth.com/mod/botania (1.19.2)
-- https://modrinth.com/mod/ae2 (1.18.2)
-- https://modrinth.com/mod/hephaestus (1.18.2)
-- https://modrinth.com/mod/thermal-expansion (FORGE ONLY)
-- https://modrinth.com/mod/tinkers-construct (FORGE ONLY)
 
 ## World Generation
-- https://www.curseforge.com/minecraft/mc-mods/terrestria (1.20)
 - https://www.curseforge.com/minecraft/mc-mods/ecotones (1.19.2)
 - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric (1.19.2)
 - https://www.curseforge.com/minecraft/mc-mods/tectonic (1.19.4)
 - https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld (1.19.4)
 - https://www.curseforge.com/minecraft/mc-mods/terralith (1.19.4)
-
 
 ## Combat
 

@@ -1,13 +1,13 @@
 name = "William Wythers' Overhauled Overworld"
-filename = "WWOO-FABRIC-2.6.4.jar"
+filename = "WWOO-FABRIC-3.1.13.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6015c9df8f8c15cd4b7eed8f36214ef992cd4995"
+hash = "765cdc66be1b058b3283fb94abbca77669fb6c3f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4509753
+file-id = 4454952
 project-id = 490686
