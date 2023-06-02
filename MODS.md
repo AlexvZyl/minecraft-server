@@ -33,7 +33,6 @@
 - https://www.curseforge.com/minecraft/mc-mods/ecotones
 - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric
 - https://www.curseforge.com/minecraft/mc-mods/tectonic
-- https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
 - https://www.curseforge.com/minecraft/mc-mods/terralith
 
 ## Quality of Life
