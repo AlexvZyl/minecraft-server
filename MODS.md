@@ -1,5 +1,5 @@
 ## Metadata
-- Version: 1.18.2
+- Version: 1.19.2
 - API: Fabric
 
 ## Compatibility
