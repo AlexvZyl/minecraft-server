@@ -71,11 +71,26 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "9d4865d5b25b744672e2d6d7bd79edf9a910f5d3325897633da54f629fc5d8bd"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "06a2f48ca0bcedfface8eed9e47a2709ad1bcdaa8097c6bf237fe346e54127eb"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "a6023d0a3cc8e38ca3b231cc6e3b11d55d188dc0a528fdea136d50b919bbb9bc"
 metafile = true
