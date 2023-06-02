@@ -21,6 +21,11 @@ hash = "dbc9321c870e69e867837cbad4f0c1dcf45c3c27d2ee230f6a6868cde2f9daab"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "416fdc912dd2bbc125eaaa322e5cc3536aaf341264caceebf1ee129df48b9c77"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
