@@ -6,11 +6,8 @@ I need a break after 175 pages of thesis.  This server does not contain any rada
 
 ## Installation
 
-```bash
-./client/install.sh
-# or
-./server/install.sh
-```
+- [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md)
+- [Server](https://github.com/AlexvZyl/minecraft-server/blob/main/server/README.md)
 
 ## Metadata
 - Version:
