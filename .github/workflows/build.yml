@@ -1,4 +1,4 @@
-name: Build
+name: Tests 
 
 on:
   push:
@@ -16,8 +16,8 @@ jobs:
 
     - name: Test server
       shell: bash
-      run: make server
+      run: ./server/install.sh
 
     - name: Test client
       shell: bash
-      run: make client
+      run: ./client/install.sh

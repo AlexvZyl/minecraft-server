@@ -1,15 +1,15 @@
 # Minecraft Server
 
-[![Build](https://github.com/AlexvZyl/minecraft-server/workflows/Build/badge.svg)](https://github.com/AlexvZyl/minecraft-server/actions?workflow=Build) 
+[![Tests](https://github.com/AlexvZyl/minecraft-server/workflows/Tests/badge.svg)](https://github.com/AlexvZyl/minecraft-server/actions?workflow=Tests) 
 
 I need a break after 175 pages of thesis.  This server does not contain any radars.
 
 ## Installation
 
 ```bash
-make client
+./client/install.sh
 # or
-make server
+./server/install.sh
 ```
 
 ## Metadata
