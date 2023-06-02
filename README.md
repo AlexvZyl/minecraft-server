@@ -9,3 +9,24 @@ make client
 # or
 make server
 ```
+
+## Metadata
+- Version:
+- API:
+
+## Mods
+
+### Optimisation
+- Sodium (rendering)
+- Sodium Extra (nice things)
+- Phosphor (lighting engine)
+- Lithium (server)
+
+### World Generation
+-
+
+### Combat
+-
+
+## Known Issues
+-
