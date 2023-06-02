@@ -4,6 +4,11 @@
 
 I need a break after 175 pages of thesis.  This server does not contain any radars.
 
+## Banned words
+- Radar
+- Thesis
+- Masters
+
 ## Installation
 
 - [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md)
