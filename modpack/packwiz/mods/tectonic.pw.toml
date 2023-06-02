@@ -3,11 +3,11 @@ filename = "tectonic-mod-mc1.19.3-v1.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/rnuM9oqV/tectonic-mod-mc1.19.3-v1.1.10.jar"
 hash-format = "sha1"
 hash = "b04d53fa3514391d373f8a85f97e72ce0fe3ae1e"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "lWDHr9jE"
-version = "rnuM9oqV"
+[update.curseforge]
+file-id = 4527865
+project-id = 686836

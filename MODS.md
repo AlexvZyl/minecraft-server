@@ -22,6 +22,7 @@
 
 - https://modrinth.com/mod/better-animations-collection
 - https://modrinth.com/mod/entity-model-features
+- https://modrinth.com/mod/better-clouds
 
 ## Engineering
 
@@ -30,7 +31,7 @@
 ## World Generation
 
 - https://www.curseforge.com/minecraft/mc-mods/ecotones
-- https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric
+<!-- - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric -->
 - https://www.curseforge.com/minecraft/mc-mods/tectonic
 - https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
 - https://www.curseforge.com/minecraft/mc-mods/terralith

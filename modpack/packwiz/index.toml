@@ -1,23 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+file = "mods/better-animations-collection.pw.toml"
+hash = "2c51b15563bdefddea965cadaaf753aea21ef7803c6b2d303bcb6cd182b55bae"
 metafile = true
 
 [[files]]
-file = "mods/corgilib.pw.toml"
-hash = "ef04850d07a0b6980b8518c1b9206d4c50c01cc39156b63e6e864cbbbf2aa5d3"
+file = "mods/better-clouds.pw.toml"
+hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd043fda6517f044b0ddb6608f1a472f60d8c1d14f2a47d65dbdcf154f1af1d3"
-metafile = true
-
-[[files]]
-file = "mods/ecotones.pw.toml"
-hash = "1b63534ca6401f20530a960b005f1118efcc65c65f26a42e4d304e800395801f"
 metafile = true
 
 [[files]]
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "678ecc9241860f54aa51acc300dcec18d96322bb593a2db6574e7de952d6038f"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "67e0be0ca5735b2c57395b9cdc6d3b434426e92afea5e0bbb05c9cf391c03d49"
 metafile = true
 
 [[files]]
@@ -58,16 +48,6 @@ metafile = true
 [[files]]
 file = "mods/mob-plaques.pw.toml"
 hash = "66980013e3c0b660c180e4ee0f14b1c5ee84d00f0abd8c25f64bbfcdca474995"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
@@ -102,25 +82,20 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "10aa6cfdad1fbd9fc363fbda4f85d5b2f2e7eec12923897679e5aa802176d0ba"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "08766df93fba0337a0035ebdb2c217270cb26be7856f16489d97176224195904"
+hash = "eb51f36aa0920bd65c391ac3e5e5cab63d08d1d1859896173cc98f42d23ad8ce"
 metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "584001af298467915485335fb7c4a3ae53dc49766cfa9452acc45ac43c7cda0a"
+hash = "9573b7c6c35cf0b8f76074c8625e3138c1654627a0149d7d2bd524d4752036ff"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-hash = "168d832a826225e12f84d31bc10ddf3f7f21c75c4c25bdc975a3381dcb17fd15"
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "a9b8b47c54be3199be7bb2cd0b656afc2c5186a0f729a178f076ac308ab400eb"
 metafile = true
 
 [[files]]
-file = "mods/wwoo.pw.toml"
-hash = "8a9e9e411f644f9e300a66eab2ce312191b0b8790235a2394594aa107dc045d6"
+file = "mods/yacl.pw.toml"
+hash = "9ab6f2e1d12d17bc50501269efe65a415b115d56b6096b6c9eb136f8de6fb885"
 metafile = true
