@@ -71,11 +71,6 @@ hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
-file = "mods/william-wythers-overhauled-overworld.pw.toml"
-hash = "a9b8b47c54be3199be7bb2cd0b656afc2c5186a0f729a178f076ac308ab400eb"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "9ab6f2e1d12d17bc50501269efe65a415b115d56b6096b6c9eb136f8de6fb885"
 metafile = true
