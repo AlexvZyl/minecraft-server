@@ -1,16 +1,16 @@
 name = "No-Radars"
-author = "Alexander van Zyl"
+author = "AlexvZyl@GitHub"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ad381b78ad360808201ab83561d09e8af2b71f56870ba0ed1f122a8dc76fb5ea"
+hash = "a9093a94280920ee93a38c33f00363deb7cfb896d7f3aa68e088228367c26443"
 
 [versions]
 fabric = "0.14.21"
-minecraft = "1.19.2"
+minecraft = "1.19.4"
 
 [options]
-acceptable-game-versions = ["1.19.1"]
+acceptable-game-versions = ["1.19.2"]

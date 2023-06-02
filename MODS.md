@@ -1,6 +1,6 @@
 ## Metadata
 
-- Version: 1.19.2
+- Version: 1.19.4
 - API: Fabric
 
 ## Compatibility
@@ -18,10 +18,11 @@
 - https://modrinth.com/mod/lithium
 - https://modrinth.com/mod/distanthorizons
 
-## Animations
+## Graphics & Visuals 
 
 - https://modrinth.com/mod/better-animations-collection
 - https://modrinth.com/mod/entity-model-features
+- https://modrinth.com/mod/better-clouds
 
 ## Engineering
 

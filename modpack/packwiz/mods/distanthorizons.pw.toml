@@ -1,13 +1,13 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-1.6.9a-1.19.2.jar"
+filename = "DistantHorizons-1.6.11a-1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/xBHpiuwg/DistantHorizons-1.6.11a-1.19.4.jar"
 hash-format = "sha1"
-hash = "a77fb15f91a7b2838c9d402e9e01ed46a3f0cd02"
+hash = "eb05ac191edc07c5eda6b5e31e0c3c327908ed07"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "yEUygWBv"
+version = "xBHpiuwg"
