@@ -18,7 +18,7 @@ jobs:
     - name: Test server
       shell: bash
       run: |
-        pdw
+        pwd 
         ls -a
         $HOME/server/install.sh
     - name: Test client
