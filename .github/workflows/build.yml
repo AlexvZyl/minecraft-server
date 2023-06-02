@@ -1,0 +1,23 @@
+name: Build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Test server
+      shell: bash
+      run: make server
+
+    - name: Test client
+      shell: bash
+      run: make client
