@@ -1,0 +1,13 @@
+name = "No-Radars"
+author = "Alexander van Zyl"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "70aa173b1c3efee88345f2cdd723cde56671914feeda85268ca78b4e78697787"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.18.2"
