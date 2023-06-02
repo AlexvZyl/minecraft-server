@@ -4,7 +4,7 @@ services:
   minecraft-server:
     image: itzg/minecraft-server
     environment:
-      VERSION: 1.19.4
+      VERSION: 1.19.2
       EULA: "true"
       TYPE: FABRIC 
       PACKWIZ_URL: https://raw.githubusercontent.com/AlexvZyl/minecraft-modpack/main/modpack/packwiz/pack.toml
