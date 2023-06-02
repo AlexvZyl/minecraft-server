@@ -8,5 +8,5 @@ packwiz update --all
 packwiz modrinth export -o $MOD_FILE
 packwiz curseforge export -o $CF_FILE
 
-mv $MOD_FILE ../modrinth/
-mv $CF_FILE ../curseforge/
+mv -f $MOD_FILE ../modrinth/
+mv -f $CF_FILE ../curseforge/
