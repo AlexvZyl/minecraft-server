@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: Test server
       shell: bash
-      run: server/test.sh
+      run: server/scripts/test.sh
     - name: Test client
       shell: bash
-      run: client/test.sh
+      run: client/scripts/test.sh
