@@ -1,3 +1,3 @@
 # Server
 
-Only supported on Debian machines.
+Debian and Arch machines are supported.
