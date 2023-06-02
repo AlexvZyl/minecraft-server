@@ -11,8 +11,23 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "ab70b04366b0890b287e409403acb550026c6c376c88858355037dadde8ed16f"
+metafile = true
+
+[[files]]
+file = "mods/ecotones.pw.toml"
+hash = "1b63534ca6401f20530a960b005f1118efcc65c65f26a42e4d304e800395801f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "10fbefa297383d7d768be6b113220b1d5f18bad29b5103641e9ffb0b3d37f3cb"
 metafile = true
 
 [[files]]
@@ -36,6 +51,11 @@ hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "91e6ca5321ae6fa135d921fc2c56b0e98c1fb01ec0f296906b95200222eb62d6"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "88d781b0098eb2a87eba798af21580139425d85ab34065b7f0917d86bd084f4c"
 metafile = true
@@ -51,6 +71,11 @@ hash = "82bfc54f0259e74515d892ec18de6623a4460fdb6ddd43bc21c477a83b587fab"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "792bd41ac615447e7fcca526d26dcd0d8f106a6bff668daa682c0a705bd8225c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "57a8156ca507aef595456aede3dc9f8ad5b9e9e835900c22f9817b79be1202e8"
 metafile = true
@@ -61,6 +86,36 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "ef642f40e1f21d2e97bea3fd667b4ca66fa1e8a9fdf7835681dc024469106f51"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "185862ec9cfe495cc848f3acd34ff361b3cf6cc2759da87b2521c12a44b7aae6"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/unfixed-seeds.pw.toml"
+hash = "c6c4844ed55ff5f542625b587dd75cb7cf4df45c1b63d17b40db3051c3617ff1"
+metafile = true
+
+[[files]]
+file = "mods/william-wythers-overhauled-overworld.pw.toml"
+hash = "8a8a0a8567a2680aa50dbb08d5208a00e41fc204be296f18735339a8c4fa26f8"
 metafile = true

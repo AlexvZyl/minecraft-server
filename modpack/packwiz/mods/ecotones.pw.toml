@@ -1,0 +1,13 @@
+name = "Ecotones"
+filename = "ecotones-0.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f23cbb8fa187308d3d44d22379d764e1eb648ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4462890
+project-id = 356678
