@@ -8,21 +8,21 @@ services:
       EULA: "true"
       VERSION: 1.19.2
       SERVER_NAME: "Where Eskom has no Power"
-      OPS: ScorpioZA
-      DEBUG: false
-      ENFORCE_SECURE_PROFILE: false
+      OPS: "ScorpioZA"
+      DEBUG: "false"
+      ENFORCE_SECURE_PROFILE: "false"
 
       TYPE: FORGE 
       FORGE_VERSION: LATEST
       CF_SERVER_MOD: https://www.curseforge.com/api/v1/mods/695890/files/4556466/download
 
-      DIFFICULTY: normal
-      SPAWN_PROTECTION: 0
+      DIFFICULTY: "normal"
+      SPAWN_PROTECTION: "0"
       SEED: ""
       MODE: survival
-      MEMORY: 8G
-      MAX_TICK_TIME: -1
-      ALLOW_FLIGHT: true
+      MEMORY: "8G"
+      MAX_TICK_TIME: "-1"
+      ALLOW_FLIGHT: "true"
 
     ports:
       - 25565:25565
