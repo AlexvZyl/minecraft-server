@@ -6,7 +6,7 @@ services:
     image: itzg/minecraft-server
     environment:
       EULA: "true"
-      VERSION: 1.19.2
+      VERSION: 1.18.2
       SERVER_NAME: "Where Eskom has no Power"
       OPS: "ScorpioZA"
       DEBUG: "false"
@@ -14,7 +14,7 @@ services:
 
       TYPE: FORGE 
       FORGE_VERSION: LATEST
-      CF_SERVER_MOD: https://www.curseforge.com/api/v1/mods/695890/files/4556466/download
+      CF_SERVER_MOD: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
       DIFFICULTY: "normal"
       SPAWN_PROTECTION: "0"
