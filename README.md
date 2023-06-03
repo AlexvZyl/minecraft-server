@@ -12,7 +12,5 @@ List of mods can be found [here](https://github.com/AlexvZyl/minecraft-modpack/b
 - Thesis
 - Masters
 
-## Installation
 
-- [Client](https://github.com/AlexvZyl/minecraft-server/blob/main/client/README.md) (You probably want this one)
-- [Server](https://github.com/AlexvZyl/minecraft-server/blob/main/server/README.md)
+> [Server](https://github.com/AlexvZyl/minecraft-server/blob/main/server/README.md)
