@@ -6,16 +6,15 @@ services:
     image: itzg/minecraft-server
     environment:
       EULA: true
-      VERSION: 1.18.2
+      VERSION: 1.19.2
       SERVER_NAME: "Where Eskom has no Power"
       OPS: ScorpioZA
       DEBUG: false
+      ENFORCE_SECURE_PROFILE: false
 
       TYPE: FORGE 
       FORGE_VERSION: LATEST
-      CF_SERVER_MOD: https://edge.forgecdn.net/files/4564/619/DawnCraft%201.21%20Serverpack.zip
-      USE_MODPACK_START_SCRIPT: false
-      FTB_LEGACYJAVAFIXER: true
+      CF_SERVER_MOD: https://www.curseforge.com/api/v1/mods/695890/files/4556466/download
 
       DIFFICULTY: normal
       SPAWN_PROTECTION: 0
