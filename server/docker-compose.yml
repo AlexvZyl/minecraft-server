@@ -2,31 +2,32 @@ version: '3.8'
 
 services:
   minecraft-server:
+
     image: itzg/minecraft-server
     environment:
       EULA: true
+      VERSION: 1.18.2
+      SERVER_NAME: "Where Eskom has no Power"
+      OPS: ScorpioZA
+      DEBUG: false
 
       TYPE: FORGE 
-      CF_SERVER_MOD: https://edge.forgecdn.net/files/4564/619/DawnCraft%201.21%20Serverpack.zip
       FORGE_VERSION: LATEST
+      CF_SERVER_MOD: https://edge.forgecdn.net/files/4564/619/DawnCraft%201.21%20Serverpack.zip
       USE_MODPACK_START_SCRIPT: false
       FTB_LEGACYJAVAFIXER: true
 
-      VERSION: 1.18.2
-      SERVER_NAME: "Where Eskom has no Power"
       DIFFICULTY: normal
       SPAWN_PROTECTION: 0
       SEED: ""
       MODE: survival
-
       MEMORY: 8G
       MAX_TICK_TIME: -1
-
       ALLOW_FLIGHT: true
-      OPS: ScorpioZA
-      DEBUG: false
+
     ports:
       - 25565:25565
+
     tty: true
     restart: unless-stopped
     volumes:
