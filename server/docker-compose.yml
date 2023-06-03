@@ -5,7 +5,7 @@ services:
 
     image: itzg/minecraft-server
     environment:
-      EULA: true
+      EULA: "true"
       VERSION: 1.19.2
       SERVER_NAME: "Where Eskom has no Power"
       OPS: ScorpioZA
