@@ -10,6 +10,7 @@ elif command -v apt &>/dev/null; then
     sudo apt install docker docker-compose
 
 else
+    echo "Only Debian and Arch are supported."
     exit
 fi
 
