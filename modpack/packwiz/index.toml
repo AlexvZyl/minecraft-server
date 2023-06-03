@@ -5,10 +5,10 @@ file = "mods/better-animations-collection.pw.toml"
 hash = "2c51b15563bdefddea965cadaaf753aea21ef7803c6b2d303bcb6cd182b55bae"
 metafile = true
 
-[[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
-metafile = true
+# [[files]]
+# file = "mods/better-clouds.pw.toml"
+# hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
+# metafile = true
 
 # [[files]]
 # file = "mods/copper-equipment.pw.toml"
