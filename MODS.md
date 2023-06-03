@@ -27,7 +27,4 @@
 ## Quality of Life
 
 - https://modrinth.com/mod/mob-plaques
-
-## World Generation
-
-- https://modrinth.com/mod/biomesyougo
+- https://modrinth.com/mod/ruined-equipment
