@@ -33,3 +33,4 @@
 
 - https://modrinth.com/mod/mob-plaques
 - https://modrinth.com/mod/modmenu
+- https://www.curseforge.com/minecraft/mc-mods/jei
