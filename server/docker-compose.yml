@@ -21,7 +21,7 @@ services:
       SPAWN_PROTECTION: "0"
       SEED: ""
       MODE: survival
-      MEMORY: "7G"
+      MEMORY: "6G"
       MAX_TICK_TIME: "-1"
       ALLOW_FLIGHT: "true"
 
