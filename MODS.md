@@ -38,4 +38,4 @@
 
 ## Gameplay
 
-- https://www.curseforge.com/minecraft/mc-mods/cooper-equipment
+- https://www.curseforge.com/minecraft/mc-mods/copper-equipment
