@@ -71,6 +71,11 @@ hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
+file = "mods/ruined-equipment.pw.toml"
+hash = "c221f68318b6a7dad8d66f61be24a7d26f870d2c2751a20e72e254629ffb3b6d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
