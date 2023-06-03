@@ -4,7 +4,7 @@
 
 I need a break after 175 pages of thesis.  This server does not contain any radars.
 
-## Banned words
+### Banned words
 
 - Radar
 - Thesis
@@ -14,7 +14,7 @@ I need a break after 175 pages of thesis.  This server does not contain any rada
 
 Debian and Arch machines are supported.
 
-## Installation
+### Installation
 
 ```bash
 # Clone
