@@ -23,7 +23,6 @@
 - https://modrinth.com/mod/better-animations-collection
 - https://modrinth.com/mod/entity-model-features
 - https://modrinth.com/mod/entity-texture-features
-- https://modrinth.com/mod/better-clouds
 
 ## Quality of Life
 
