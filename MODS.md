@@ -16,7 +16,11 @@
 - https://modrinth.com/mod/phosphor
 - https://modrinth.com/mod/lithium
 - https://modrinth.com/mod/distanthorizons
-<!-- - https://modrinth.com/mod/sodium-extra -->
+- https://www.curseforge.com/minecraft/mc-mods/entityculling
+- https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+- https://www.curseforge.com/minecraft/mc-mods/immediatelyfast
+- https://modrinth.com/mod/memoryleakfix
+- https://www.curseforge.com/minecraft/mc-mods/smooth-boot
 
 ## Graphics & Visuals 
 
