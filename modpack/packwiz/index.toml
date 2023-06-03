@@ -61,11 +61,6 @@ hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "1a72a914debf3238a87a9d1064d23469009c2289eb2e372019f9121fff232506"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -108,9 +103,4 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "409b9e74f4b932628743b077314c5813408218718bcf6803ab45ada45afc7e5c"
 metafile = true
