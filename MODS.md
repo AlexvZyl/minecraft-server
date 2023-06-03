@@ -16,6 +16,7 @@
 - https://modrinth.com/mod/phosphor
 - https://modrinth.com/mod/lithium
 - https://modrinth.com/mod/distanthorizons
+
 - https://www.curseforge.com/minecraft/mc-mods/entityculling
 - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
 - https://www.curseforge.com/minecraft/mc-mods/immediatelyfast
@@ -26,7 +27,7 @@
 
 - https://modrinth.com/mod/better-animations-collection
 - https://modrinth.com/mod/entity-model-features
-- https://modrinth.com/mod/entity-texture-features
+- https://modrinth.com/mod/entitytexturefeatures
 - https://modrinth.com/mod/better-clouds
 
 ## Quality of Life
