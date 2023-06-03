@@ -28,4 +28,3 @@
 ## Quality of Life
 
 - https://modrinth.com/mod/mob-plaques
-- https://modrinth.com/mod/ruined-equipment
