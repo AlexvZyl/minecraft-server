@@ -24,5 +24,7 @@ cd minecraft-server
 # Run docker
 ./server/scripts/install.sh
 ./server/scripts/start.sh
-./server/scripts/connect.sh # Optional
+# Optional
+./server/scripts/connect.sh
+watch ./server/scripts/logs.sh
 ```
