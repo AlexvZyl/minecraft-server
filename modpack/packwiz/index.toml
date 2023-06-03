@@ -6,11 +6,6 @@ hash = "2c51b15563bdefddea965cadaaf753aea21ef7803c6b2d303bcb6cd182b55bae"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd043fda6517f044b0ddb6608f1a472f60d8c1d14f2a47d65dbdcf154f1af1d3"
 metafile = true
@@ -78,9 +73,4 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
 metafile = true
