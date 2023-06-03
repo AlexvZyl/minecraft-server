@@ -56,6 +56,11 @@ hash = "66980013e3c0b660c180e4ee0f14b1c5ee84d00f0abd8c25f64bbfcdca474995"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
