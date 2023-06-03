@@ -6,6 +6,11 @@ hash = "2c51b15563bdefddea965cadaaf753aea21ef7803c6b2d303bcb6cd182b55bae"
 metafile = true
 
 [[files]]
+file = "mods/copper-equipment.pw.toml"
+hash = "5b2c101458d3492de00add3122b5a8290d90e89ca5bd51f5747553893a5ffd93"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd043fda6517f044b0ddb6608f1a472f60d8c1d14f2a47d65dbdcf154f1af1d3"
 metafile = true
@@ -27,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3441cb2e0219c0a959c010bc73e5a29354de8b6055db5359eb41f0ced473ef4"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "1a72a914debf3238a87a9d1064d23469009c2289eb2e372019f9121fff232506"
 metafile = true
 
 [[files]]
@@ -98,4 +108,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "409b9e74f4b932628743b077314c5813408218718bcf6803ab45ada45afc7e5c"
 metafile = true
