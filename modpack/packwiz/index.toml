@@ -86,11 +86,6 @@ hash = "3c2dbfec06c4a91043f91b7f79b8c684149e651a8e104a4cdce81b181ef4f71c"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "21749d96923c04571769031996ef649c790e796172060c7a027e2fabcad26c05"
 metafile = true
