@@ -7,14 +7,15 @@ services:
     environment:
       EULA: "true"
       VERSION: 1.18.2
-      SERVER_NAME: "Where Eskom has no Power"
+      SERVER_NAME: "No Radars!"
+      MOTD: "Where Eskom has no Power"
       OPS: "ScorpioZA"
       DEBUG: "false"
       ENFORCE_SECURE_PROFILE: "false"
 
-      TYPE: FORGE 
-      FORGE_VERSION: LATEST
-      CF_SERVER_MOD: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
+      TYPE: "FORGE" 
+      FORGE_VERSION: "40.2.1"
+      GENERIC_PACK: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
       DIFFICULTY: "normal"
       SPAWN_PROTECTION: "0"
