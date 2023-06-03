@@ -18,8 +18,8 @@ Debian and Arch machines are supported.
 
 ```bash
 # Clone
-git clone https://github.com/AlexvZyl/minecraft-modpack
-cd minecraft-modpack
+git clone https://github.com/AlexvZyl/minecraft-server
+cd minecraft-server
 
 # Run docker
 ./server/scripts/install.sh
