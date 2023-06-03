@@ -35,3 +35,7 @@
 - https://modrinth.com/mod/modmenu
 - https://www.curseforge.com/minecraft/mc-mods/jei
 - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+
+## Gameplay
+
+- https://www.curseforge.com/minecraft/mc-mods/cooper-equipment

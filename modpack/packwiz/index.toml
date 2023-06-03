@@ -11,6 +11,11 @@ hash = "10a3d506803eb9a8ab86d1a31ff354d6f66773378a5a4e59eb9d6ae26a5dead6"
 metafile = true
 
 [[files]]
+file = "mods/copper-equipment.pw.toml"
+hash = "5b2c101458d3492de00add3122b5a8290d90e89ca5bd51f5747553893a5ffd93"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "dd043fda6517f044b0ddb6608f1a472f60d8c1d14f2a47d65dbdcf154f1af1d3"
 metafile = true

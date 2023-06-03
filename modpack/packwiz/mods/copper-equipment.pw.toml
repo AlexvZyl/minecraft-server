@@ -1,0 +1,13 @@
+name = "Copper Equipment - Now Oxidizes!"
+filename = "exlinecopperequipment-fabric-1.19.4-v2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3fcb325c13f2118da6a084f6ff4bd16dced7dc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4508993
+project-id = 514371
