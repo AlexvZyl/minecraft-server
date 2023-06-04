@@ -24,6 +24,7 @@ services:
       MEMORY: "6G"
       MAX_TICK_TIME: "-1"
       ALLOW_FLIGHT: "true"
+      PVP: "false"
 
     ports:
       - 25565:25565

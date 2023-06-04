@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo docker logs server-minecraft-server-1
+
+watch "sudo docker logs server_minecraft-server_1 | tail -n $(($LINES - 10))"
