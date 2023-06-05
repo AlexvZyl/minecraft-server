@@ -1,1 +1,14 @@
-[ { "name":"ScorpioZA" }, { "name":"Barbarian072" }, { "name":"PeculiarMuck" }, { "name":"KwaggaZA" } ]
+[
+  {
+    "uuid": "741c52cc-ddc8-4150-8e19-2df701778430",
+    "name": "KwaggaZA"
+  },
+  {
+    "uuid": "8b1488d3-0db4-40c7-9462-cc42f9b0c923",
+    "name": "PeculiarMuck"
+  },
+  {
+    "uuid": "e62ee5f7-a063-4f1d-ba0c-f3561ef6ae64",
+    "name": "Barbarian072"
+  }
+]

@@ -5,26 +5,54 @@ services:
 
     image: itzg/minecraft-server
     environment:
+
+      # General.
       EULA: "true"
-      VERSION: 1.18.2
       SERVER_NAME: "No Radars!"
       MOTD: "Where Eskom has no Power"
-      OPS: "ScorpioZA"
       DEBUG: "false"
-      ENFORCE_SECURE_PROFILE: "false"
+      ICON: "data/icon.jpg"
+      OVERRIDE_ICON: "true"
+      OVERRIDE_SERVER_PROPERTIES: "true"
 
+      # Players.
+      OPS: "ScorpioZA"
+      OVERRIDE_OPS: "true"
+      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck"
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      OVERRIDE_WHITELIST: "true"
+      MAX_PLAYERS: "4"
+
+      # Server performance.
+      ENABLE_AUTOPAUSE: "true"
+      MEMORY: "6G"
+      MAX_TICK_TIME: "-1"
+      VIEW_DISTANCE: 8
+
+      # Privacy.
+      ENFORCE_SECURE_PROFILE: "false"
+      SNOOPER_ENABLED: "false"
+      ONLINE_MODE: "false"
+
+      # Modpack.
+      VERSION: 1.18.2
       TYPE: "FORGE" 
       FORGE_VERSION: "40.2.1"
       GENERIC_PACK: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
+      # Gamrules.
       DIFFICULTY: "normal"
-      SPAWN_PROTECTION: "0"
-      SEED: ""
+      SPAWN_PROTECTION: "10"
       MODE: survival
-      MEMORY: "6G"
-      MAX_TICK_TIME: "-1"
       ALLOW_FLIGHT: "true"
       PVP: "false"
+      ANNOUNCE_PLAYER_ACHIEVEMENTS: "true"
+      ENABLE_COMMAND_BLOCK: "false"
+      ALLOW_NETHER: "true"
+      FORCE_GAMEMODE: "true"
+      MAX_BUILD_HEIGHT: 512
+      SEED: ""
 
     ports:
       - 25565:25565
