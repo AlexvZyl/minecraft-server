@@ -44,7 +44,7 @@ services:
 
       # Gamrules.
       DIFFICULTY: "normal"
-      SPAWN_PROTECTION: "10"
+      SPAWN_PROTECTION: "1"
       MODE: survival
       ALLOW_FLIGHT: "true"
       PVP: "false"
