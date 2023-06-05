@@ -1,4 +1,4 @@
-# Minecraft Server
+# ⚒️ Minecraft Server
 
 <!-- [![Tests](https://github.com/AlexvZyl/minecraft-server/workflows/Tests/badge.svg)](https://github.com/AlexvZyl/minecraft-server/actions?workflow=Tests) --> 
 
