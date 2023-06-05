@@ -12,7 +12,7 @@ services:
       MOTD: "Where Eskom has no Power"
       DEBUG: "false"
       ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/server/data/icon.png"
-      OVERRIDE_ICON: "true"
+      OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
 
       # Players.
@@ -22,7 +22,7 @@ services:
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       OVERRIDE_WHITELIST: "true"
-      MAX_PLAYERS: "4"
+      MAX_PLAYERS: 4
 
       # Server performance.
       ENABLE_AUTOPAUSE: "true"
@@ -44,7 +44,7 @@ services:
 
       # Gamrules.
       DIFFICULTY: "normal"
-      SPAWN_PROTECTION: "10"
+      SPAWN_PROTECTION: 1
       MODE: survival
       ALLOW_FLIGHT: "true"
       PVP: "false"
