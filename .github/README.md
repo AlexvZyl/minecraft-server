@@ -4,17 +4,9 @@
 
 I need a break after 175 pages of thesis.  This server does not contain any radars.
 
-### Banned words
-
-- Radar
-- Thesis
-- Masters
-
-# Server
+## Installation
 
 Debian and Arch machines are supported.
-
-### Installation
 
 ```bash
 # Clone
@@ -28,3 +20,7 @@ sudo docker-compose up -d
 ./scripts/connect.sh
 ./scripts/logs.sh
 ```
+
+## Banned words
+
+Radar, Thesis, Masters
