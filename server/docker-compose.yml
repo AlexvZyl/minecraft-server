@@ -11,7 +11,7 @@ services:
       SERVER_NAME: "No Radars!"
       MOTD: "Where Eskom has no Power"
       DEBUG: "false"
-      ICON: "data/icon.jpg"
+      ICON: "icon.jpg"
       OVERRIDE_ICON: "true"
       OVERRIDE_SERVER_PROPERTIES: "true"
 
