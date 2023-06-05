@@ -29,6 +29,7 @@ services:
       MEMORY: "6G"
       MAX_TICK_TIME: "-1"
       VIEW_DISTANCE: 8
+      SIMULATION_SITANCE: 2
 
       # Privacy.
       ENFORCE_SECURE_PROFILE: "false"
