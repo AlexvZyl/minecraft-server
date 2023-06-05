@@ -29,10 +29,10 @@ services:
       ENABLE_AUTOPAUSE: "true"
       AUTOPAUSE_TIMEOUT_EST: 600
       AUTOPAUSE_TIMEOUT_INIT: 600
-      MEMORY: "6G"
+      MEMORY: "11G"
       MAX_TICK_TIME: "-1"
-      VIEW_DISTANCE: 8
-      SIMULATION_SITANCE: 2
+      VIEW_DISTANCE: 12
+      SIMULATION_SITANCE: 6
 
       # Privacy.
       ENFORCE_SECURE_PROFILE: "false"
