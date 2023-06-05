@@ -8,7 +8,7 @@ services:
 
       # General.
       EULA: "true"
-      SERVER_NAME: "No Radars!"
+      SERVER_NAME: "No Radars"
       MOTD: "Where Eskom has no Power"
       DEBUG: "false"
       ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/server/data/icon.png"
