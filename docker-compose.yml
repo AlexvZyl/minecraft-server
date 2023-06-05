@@ -11,7 +11,7 @@ services:
       SERVER_NAME: "No Radars"
       MOTD: "Where Eskom has no Power"
       DEBUG: "false"
-      ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/server/data/icon.png"
+      ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/data/icon.png"
       OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
       ONLINE_MODE: "true"
