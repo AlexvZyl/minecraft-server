@@ -48,10 +48,11 @@ services:
       MAX_PLAYERS: 6
 
       # Server performance
+      USE_AIKAR_FLAGS: "true"
       ENABLE_AUTOPAUSE: "false"
       AUTOPAUSE_TIMEOUT_EST: 600
       AUTOPAUSE_TIMEOUT_INIT: 600
-      MEMORY: "10.5G"
+      MAX_MEMORY: "10G"
       MAX_TICK_TIME: "-1"
       VIEW_DISTANCE: 10
       SIMULATION_SITANCE: 5
