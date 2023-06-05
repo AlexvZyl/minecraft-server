@@ -11,7 +11,7 @@ services:
       SERVER_NAME: "No Radars"
       MOTD: "Where Eskom has no Power"
       DEBUG: "false"
-      ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/server/data/icon.png"
+      ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/data/icon.png"
       OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
       ONLINE_MODE: "true"
@@ -19,14 +19,16 @@ services:
       # Players.
       OPS: "ScorpioZA"
       OVERRIDE_OPS: "true"
-      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck"
+      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       OVERRIDE_WHITELIST: "true"
-      MAX_PLAYERS: 4
+      MAX_PLAYERS: 6
 
       # Server performance.
       ENABLE_AUTOPAUSE: "true"
+      AUTOPAUSE_TIMEOUT_EST: 600
+      AUTOPAUSE_TIMEOUT_INIT: 600
       MEMORY: "6G"
       MAX_TICK_TIME: "-1"
       VIEW_DISTANCE: 8
