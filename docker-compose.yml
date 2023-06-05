@@ -6,45 +6,23 @@ services:
     image: itzg/minecraft-server
     environment:
 
-      # General.
+      # General
       EULA: "true"
       SERVER_NAME: "No Radars"
       MOTD: "Where Eskom has no Power"
-      DEBUG: "false"
+      DEBUG: false
       ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/data/icon.png"
       OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
       ONLINE_MODE: "true"
 
-      # Players.
-      OPS: "ScorpioZA"
-      OVERRIDE_OPS: "true"
-      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA"
-      ENABLE_WHITELIST: "true"
-      ENFORCE_WHITELIST: "true"
-      OVERRIDE_WHITELIST: "true"
-      MAX_PLAYERS: 6
-
-      # Server performance.
-      ENABLE_AUTOPAUSE: "true"
-      AUTOPAUSE_TIMEOUT_EST: 600
-      AUTOPAUSE_TIMEOUT_INIT: 600
-      MEMORY: "11G"
-      MAX_TICK_TIME: "-1"
-      VIEW_DISTANCE: 10
-      SIMULATION_SITANCE: 5
-
-      # Privacy.
-      ENFORCE_SECURE_PROFILE: "false"
-      SNOOPER_ENABLED: "false"
-
-      # Modpack.
+      # Modpack
       VERSION: 1.18.2
       TYPE: "FORGE" 
       FORGE_VERSION: "40.2.1"
       GENERIC_PACK: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
-      # Gamrules.
+      # Gamrules
       DIFFICULTY: "normal"
       SPAWN_PROTECTION: 1
       MODE: survival
@@ -57,10 +35,37 @@ services:
       MAX_BUILD_HEIGHT: 512
       SEED: ""
 
+      # MC server console 
+      EXEC_DIRECTLY: "true"
+
+      # Players
+      OPS: "ScorpioZA"
+      OVERRIDE_OPS: "true"
+      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA"
+      ENABLE_WHITELIST: "true"
+      ENFORCE_WHITELIST: "true"
+      OVERRIDE_WHITELIST: "true"
+      MAX_PLAYERS: 6
+
+      # Server performance
+      ENABLE_AUTOPAUSE: "false"
+      AUTOPAUSE_TIMEOUT_EST: 600
+      AUTOPAUSE_TIMEOUT_INIT: 600
+      MEMORY: "11G"
+      MAX_TICK_TIME: "-1"
+      VIEW_DISTANCE: 10
+      SIMULATION_SITANCE: 5
+
+      # Privacy
+      ENFORCE_SECURE_PROFILE: "false"
+      SNOOPER_ENABLED: "false"
+
     ports:
       - 25565:25565
 
     tty: true
+    stdin_open: true
+
     restart: unless-stopped
     volumes:
     - ./data:/data
