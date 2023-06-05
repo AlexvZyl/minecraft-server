@@ -14,6 +14,7 @@ services:
       ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/server/data/icon.png"
       OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
+      ONLINE_MODE: "true"
 
       # Players.
       OPS: "ScorpioZA"
@@ -34,7 +35,6 @@ services:
       # Privacy.
       ENFORCE_SECURE_PROFILE: "false"
       SNOOPER_ENABLED: "false"
-      ONLINE_MODE: "false"
 
       # Modpack.
       VERSION: 1.18.2
