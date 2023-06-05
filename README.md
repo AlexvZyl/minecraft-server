@@ -22,9 +22,9 @@ git clone https://github.com/AlexvZyl/minecraft-server
 cd minecraft-server
 
 # Run docker
-./server/scripts/install.sh
-./server/scripts/start.sh
+./scripts/install.sh
+sudo docker-compose up -d
 # Optional
-./server/scripts/connect.sh
-watch ./server/scripts/logs.sh
+./scripts/connect.sh
+./scripts/logs.sh
 ```
