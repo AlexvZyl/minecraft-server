@@ -1,20 +1,10 @@
-# Minecraft Server
+# ⚒️ Minecraft Server
 
-<!-- [![Tests](https://github.com/AlexvZyl/minecraft-server/workflows/Tests/badge.svg)](https://github.com/AlexvZyl/minecraft-server/actions?workflow=Tests) --> 
+A Minecraft server that runs [DawnCraft](https://dawncraft.fandom.com/wiki/DawnCraft_Wiki).  Deployed with docker.
 
-I need a break after 175 pages of thesis.  This server does not contain any radars.
-
-### Banned words
-
-- Radar
-- Thesis
-- Masters
-
-# Server
+## Installation
 
 Debian and Arch machines are supported.
-
-### Installation
 
 ```bash
 # Clone
@@ -28,3 +18,7 @@ sudo docker-compose up -d
 ./scripts/connect.sh
 ./scripts/logs.sh
 ```
+
+## Banned words
+
+Radar, Thesis, Masters
