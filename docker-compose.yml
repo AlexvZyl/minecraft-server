@@ -31,8 +31,8 @@ services:
       AUTOPAUSE_TIMEOUT_INIT: 600
       MEMORY: "11G"
       MAX_TICK_TIME: "-1"
-      VIEW_DISTANCE: 12
-      SIMULATION_SITANCE: 6
+      VIEW_DISTANCE: 10
+      SIMULATION_SITANCE: 5
 
       # Privacy.
       ENFORCE_SECURE_PROFILE: "false"
