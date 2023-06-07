@@ -18,7 +18,7 @@ services:
 
       # Modpack
       VERSION: 1.18.2
-      TYPE: "FORGE" 
+      TYPE: "40.2.1" 
       FORGE_VERSION: "latest"
       GENERIC_PACK: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
