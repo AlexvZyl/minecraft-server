@@ -41,7 +41,7 @@ services:
       # Players
       OPS: "ScorpioZA"
       OVERRIDE_OPS: "true"
-      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA"
+      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA,dieBasilisk"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       OVERRIDE_WHITELIST: "true"
