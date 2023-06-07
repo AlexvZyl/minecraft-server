@@ -19,7 +19,7 @@ services:
       # Modpack
       VERSION: 1.18.2
       TYPE: "FORGE" 
-      FORGE_VERSION: "40.2.1"
+      FORGE_VERSION: "latest"
       GENERIC_PACK: https://www.curseforge.com/api/v1/mods/829758/files/4561378/download
 
       # Gamrules
@@ -36,7 +36,7 @@ services:
       SEED: ""
 
       # MC server console 
-      EXEC_DIRECTLY: "true"
+      # EXEC_DIRECTLY: "true"
 
       # Players
       OPS: "ScorpioZA"
@@ -49,13 +49,13 @@ services:
 
       # Server performance
       USE_AIKAR_FLAGS: "true"
-      ENABLE_AUTOPAUSE: "false"
-      AUTOPAUSE_TIMEOUT_EST: 600
-      AUTOPAUSE_TIMEOUT_INIT: 600
+      ENABLE_AUTOPAUSE: "true"
+      AUTOPAUSE_TIMEOUT_EST: 300
+      AUTOPAUSE_TIMEOUT_INIT: 300
       MAX_MEMORY: "10G"
       MAX_TICK_TIME: "-1"
-      VIEW_DISTANCE: 10
-      SIMULATION_DISTANCE: 5
+      VIEW_DISTANCE: 12
+      SIMULATION_DISTANCE: 6
 
       # Privacy
       ENFORCE_SECURE_PROFILE: "false"
