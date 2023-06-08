@@ -36,7 +36,7 @@ services:
       SEED: ""
 
       # MC server console 
-      # EXEC_DIRECTLY: "true"
+      EXEC_DIRECTLY: "true"
 
       # Players
       OPS: "ScorpioZA"
@@ -45,13 +45,13 @@ services:
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       OVERRIDE_WHITELIST: "true"
-      MAX_PLAYERS: 6
+      MAX_PLAYERS: 7
 
       # Server performance
       USE_AIKAR_FLAGS: "true"
-      ENABLE_AUTOPAUSE: "true"
-      AUTOPAUSE_TIMEOUT_EST: 300
-      AUTOPAUSE_TIMEOUT_INIT: 300
+      ENABLE_AUTOPAUSE: "false"
+      # AUTOPAUSE_TIMEOUT_EST: 300
+      # AUTOPAUSE_TIMEOUT_INIT: 300
       MAX_MEMORY: "11G"
       MAX_TICK_TIME: "-1"
       VIEW_DISTANCE: 10
