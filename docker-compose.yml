@@ -10,7 +10,7 @@ services:
       EULA: "true"
       SERVER_NAME: "No Radars"
       MOTD: "Where Eskom has no Power"
-      DEBUG: "false"
+      DEBUG: "true"
       ICON: "https://raw.githubusercontent.com/AlexvZyl/minecraft-server/main/data/icon.png"
       OVERRIDE_ICON: "TRUE"
       OVERRIDE_SERVER_PROPERTIES: "true"
@@ -41,7 +41,7 @@ services:
       # Players
       OPS: "ScorpioZA"
       OVERRIDE_OPS: "true"
-      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA,dieBasilisk"
+      WHITELIST: "ScorpioZA,KwaggaZA,Barbarian072,PeculiarMuck,KirpatsZA,DieBasilisk"
       ENABLE_WHITELIST: "true"
       ENFORCE_WHITELIST: "true"
       OVERRIDE_WHITELIST: "true"
@@ -52,10 +52,10 @@ services:
       ENABLE_AUTOPAUSE: "true"
       AUTOPAUSE_TIMEOUT_EST: 300
       AUTOPAUSE_TIMEOUT_INIT: 300
-      MAX_MEMORY: "10G"
+      MAX_MEMORY: "11G"
       MAX_TICK_TIME: "-1"
-      VIEW_DISTANCE: 12
-      SIMULATION_DISTANCE: 6
+      VIEW_DISTANCE: 10
+      SIMULATION_DISTANCE: 5
 
       # Privacy
       ENFORCE_SECURE_PROFILE: "false"
