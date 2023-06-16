@@ -14,9 +14,7 @@ cd minecraft-server
 # Run docker
 ./scripts/install.sh
 sudo docker-compose up -d
-# Optional
-./scripts/connect.sh
-./scripts/logs.sh
+./scripts/attach.sh
 ```
 
 ## Banned words
